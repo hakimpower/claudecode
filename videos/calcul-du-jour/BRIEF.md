@@ -6,7 +6,7 @@ message: "100 km en voiture : ~14–15 € en carburant contre moins de 3 € re
 destination: réseaux sociaux (Reels / TikTok / Shorts)
 aspect: "9:16"
 language: fr
-length: 12s
+length: 18s
 audio: effets sonores uniquement, pas de musique
 ---
 
